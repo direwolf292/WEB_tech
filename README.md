@@ -1,5 +1,6 @@
-# WEB_tech
-assignment_01
+# WEB_TECH
+
+Assignment_01
 
 1.Copy the contents of every file under the same name of the reference files.
 
